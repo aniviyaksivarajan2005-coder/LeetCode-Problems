@@ -33,5 +33,6 @@ class Solution:
             else:
                 left = partition1 + 1
 
-        return 0.
+        return 0.0
+        
         
