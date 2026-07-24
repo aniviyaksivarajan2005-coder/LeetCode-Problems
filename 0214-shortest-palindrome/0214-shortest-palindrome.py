@@ -56,4 +56,3 @@ class Solution:
         suffix = s[longestPrefix:]
 
         return suffix[::-1] + s
-        
