@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/aniviyaksivarajan2005-coder/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
+| [0214-shortest-palindrome](https://github.com/aniviyaksivarajan2005-coder/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -13,4 +14,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/aniviyaksivarajan2005-coder/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/aniviyaksivarajan2005-coder/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/aniviyaksivarajan2005-coder/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/aniviyaksivarajan2005-coder/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
